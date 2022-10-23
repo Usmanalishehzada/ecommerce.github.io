@@ -1,0 +1,90 @@
+.navbar{
+    background-color: rgba(255, 139, 97, 0.87); !important
+}
+.nav-item{
+    font-weight:bold ;
+}
+.fa-cart-plus{
+    font-size: 32px;
+}
+.fa-user{
+    font-size: 25px;
+}
+.dropdown-menu{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row{
+    margin: 10px;
+
+}
+.fa-truck-fast{
+    font-size: 50px;
+}
+.card1,.card2,.card3{
+    display:flex ;
+    box-shadow: 2px 4px 6px grey;
+    background-color: rgba(255, 139, 97, 0.87);
+    height: 100px;
+     width: 300px;
+    justify-content: center;
+     align-items: center;
+     margin-left: 50px;
+}
+.maincard{
+    margin-top: 30px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around ;
+   
+}
+.fa-headphones{
+    font-size: 60px;
+}
+.fa-shield-check{
+    font-size: 60px;
+}
+.fa-thumbs-up{
+    font-size: 60px; 
+}
+h1{
+    text-align: center;
+    font: size 500px;
+    font-weight: bolder !important;
+text-decoration: rgba(255, 139, 97, 0.87) ;
+font-family: 'Times New Roman', Times, serif;
+}
+.list-group{
+    align-items: center;
+}
+.card4{
+    margin-top: 30px;
+    display:inline-flex;
+    flex-direction:row;
+    justify-content:space-around ;
+}
+.span{
+    text-decoration: rgba(255, 139, 97, 0.87) !important ;
+    font-size: 200px ; 
+    
+}
+.footer{
+    padding: 0;
+    margin: 0;
+}
+h4 {
+    text-decoration: rgba(255, 139, 97, 0.87) ;
+    text-align: center;
+    
+}
+div > h4 {
+    background-color: rgba(255, 139, 97, 0.87)  ;
+    font-size: 20px;
+
+
+}
+div > div > h3 {
+    background-color: grey;
+    text-decoration: antiquewhite;
+    text-align: center;
+    font-size: 10px;
+}
